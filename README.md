@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**igorgonteri/igorgonteri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there ! Here are a couple facts about me:
+
+- I live in switzerland near Lausanne.
+- 🌱 I’m currently studying chemistry and chemical enginerring
+- I'm a second year bachelor at Swiss Federal Institute of Technology (EPFL)
+- Next year I will be studying at Imperial college London !
+- 🔭 I’m currently working on my courses and lab report
+- 📫 How to reach me: -instagram: gonterigor -linkedin: Igor Gonteri
+
+Nice to meet you !!
