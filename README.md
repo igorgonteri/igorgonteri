@@ -23,7 +23,7 @@ Workflow = ["Git", "LaTeX"]
 
 ## 📫 Contact
 
-* LinkedIn: [Igor Gonteri](www.linkedin.com/in/gonterigor)
+* LinkedIn: [Igor Gonteri](https://linkedin.com/in/gonterigor)
 * E-mail: igor.gonteri@epfl.ch
 
 ---
