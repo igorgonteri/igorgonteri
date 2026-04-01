@@ -1,15 +1,35 @@
-### Hi there 👋
+# Hi, I'm Igor 👋
 
+Quantum science and engineering student @ EPFL → moving into **quantum science & computational research**
 
+---
 
-Hi there ! Here are a couple facts about me:
+## 🧠 What I'm working on
 
-- I live in switzerland near Lausanne.
-- 🌱 I’m currently studying chemistry and chemical engineering
-- I'm a second year bachelor at Swiss Federal Institute of Technology (EPFL)
-- Next year I will be studying at Imperial college London !
-- 🔭 I’m currently working on my courses and lab report as well as on a tremendous collaborative programming in chemistry project
-- 📫 How to reach me: -instagram: gonterigor -linkedin: Igor Gonteri
-- Currently coding with an intel core i5 double cores combined to 8 gigabits of RAM ! But I am looking forward to code on an m3 cheap asap 
+* ⚛️ Quantum systems & atomic physics
+* 🧪 Computational chemistry + molecular modeling
+* 🤖 Machine learning for scientific applications
 
-Nice to meet you !!
+---
+
+## 💻 Tech
+
+```python
+Languages = ["Python"]
+Tools = ["PyTorch", "NumPy", "SciPy", "RDKit", "Qiskit"]
+Workflow = ["Git", "LaTeX"]
+```
+---
+
+## 📫 Contact
+
+* LinkedIn: [Igor Gonteri](www.linkedin.com/in/gonterigor)
+* E-mail: igor.gonteri@epfl.ch
+
+---
+
+## ⚡ Fun
+
+* Into rowing 🚣 (UK champion beginner 4+)
+* Building things where **physics meets code**
+
